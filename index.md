@@ -7,13 +7,12 @@
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
 * [Continuous Integration](#continuous-integration)
-* [Walkthrough videos](#walkthrough-videos)
 * [Example enhancements](#example-enhancements)
 * [Team](#team)
 
 ## Overview
 
-BowFolios is an example web application that provides pages to view and (in some cases) modify profiles, projects, and interests. It illustrates various technologies useful to ICS software engineering students, including:
+Kanak Attack is an app designed for Manoa campus. It gives the ability to vendors to maintain an active menu 
 
 * [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
@@ -22,7 +21,7 @@ BowFolios is an example web application that provides pages to view and (in some
 
 It also provides code that implements a variety of useful design concepts, including:
 
-* Three primary collections (Profiles, Projects, Interests) as well as three "join" Collections (ProfilesInterests, ProfilesProjects, and ProjectsInterests) that implement many-to-many relationships between them.
+* We will have three user roles (vendor, consumer, and admin) in which the vendors can update the app to include available menu options, changes or specials.
 * Top-level index pages (Profiles, Interests, and Projects) that show how to manipulate these six collections in various ways.
 * Initialization code to define default Profiles, Interests, and Projects and relations between them.
 * A simple Filter page to illustrate how to perform simple queries on the database and display the results.
@@ -38,7 +37,7 @@ This section provides a walkthrough of the Bowfolios user interface and its capa
 
 ### Landing Page
 
-The landing page is presented to users when they visit the top-level URL to the site.
+When arriving at the landing page, the user has the option to login to an existing account or create an account. We will aslo display some general information about the app in case the user is contemplating downloading it.
 
 ![](images/landing-page.png)
 
@@ -308,15 +307,6 @@ As of the time of writing, this screenshot shows that there is an ongoing task (
 
 ## Walkthrough videos
 
-BowFolios is intended as a model of how an ICS 314 project could be organized and executed. Here are videos that walk you through various aspects of the system:
-
-* [BowFolios Part 1: Application Overview (5 min)](https://www.youtube.com/watch?v=gr55MMWD8ok)
-* [BowFolios Part 2: Application Structure and Control Flow (14 min)](https://www.youtube.com/watch?v=LYh06HSYv54)
-* [BowFolios Part 3: Data Model, Data Initialization, Publications and Subscriptions (22 min)](https://www.youtube.com/watch?v=2F2Cw5Ipubc)
-* [BowFolios Part 4: Forms and Meteor Methods (20 min)](https://www.youtube.com/watch?v=5qim9mXpbTM)
-* [BowFolios Part 5: Loading data using Assets (8 min)](https://www.youtube.com/watch?v=NzrTzBPCJPo)
-* [BowFolios Part 6: Design Patterns in BowFolios (22 min)](https://www.youtube.com/watch?v=yP-t44HBCPQ)
-* [BowFolios Part 7: End-to-End testing in BowFolios (24 min)](https://www.youtube.com/watch?v=B8TSiCLBeaA)
 
 ## Example enhancements
 
