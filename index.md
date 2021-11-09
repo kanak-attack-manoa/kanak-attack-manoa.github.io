@@ -54,6 +54,14 @@ Example of Places to eat on campus:
 
 <img src="public/images/food-spots.png">
 
+Example of where to eat:
+
+<img src="public/images/map.png">
+
+Example of a similar Vendor Profile:
+
+<img src="public/images/vendor-profile.png">
+
 [comment]: <> (![]&#40;images/profiles-page.png&#41;)
 
 The Places page shows all of the currently defined Places and their associated Profiles and Interests:
