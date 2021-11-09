@@ -2,8 +2,9 @@
 title: Kanak Attack Manoa
 ---
 
-## Table of contents
+## Table of contents   
 
+* [Link to Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/1?fullscreen=true)
 * [Overview](#overview)
 * [User Guide](#user-guide)
 
