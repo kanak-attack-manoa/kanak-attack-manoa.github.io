@@ -50,6 +50,10 @@ Kanak Attack provides three public pages that present the contents of the databa
 
 The Profiles page shows all the current defined profiles and their associated Foods and Places:
 
+Example of Places to eat on campus:
+
+<img src="public/images/food-spots.png">
+
 [comment]: <> (![]&#40;images/profiles-page.png&#41;)
 
 The Places page shows all of the currently defined Places and their associated Profiles and Interests:
