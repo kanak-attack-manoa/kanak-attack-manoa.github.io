@@ -1,4 +1,6 @@
-## Kanak Attack Manoa
+---
+title: Kanak Attack Manoa
+---
 
 ## Table of contents
 
