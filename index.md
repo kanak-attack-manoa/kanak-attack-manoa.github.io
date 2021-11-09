@@ -1,4 +1,4 @@
-## KAnak Attack Manoa
+## Kanak Attack Manoa
 
 ## Table of contents
 
