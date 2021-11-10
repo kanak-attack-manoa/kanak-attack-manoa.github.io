@@ -2,9 +2,7 @@
 title: Kanak Attack Manoa
 ---
 [Kanak Attack Manoa Organization](https://github.com/kanak-attack-manoa)
-
 [Kanak Attack Manoa](https://github.com/kanak-attack-manoa/kanak-attack-manoa)
-
 [M1 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/1)
 
 ## Table of contents   
