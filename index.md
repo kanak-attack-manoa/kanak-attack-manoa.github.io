@@ -34,21 +34,25 @@ Kanak Attack provides three public pages that present the contents of the databa
 
 The Profiles page shows all the current defined profiles and their associated Foods and Places:
 
-Example of a similar Vendor Profile:
+Mockup of Landing Page:
 
-<img src="public/images/vendor-profile.png">
+<img src="public/images/landing-mockup.png">
 
-The Foods page shows all the currently defined Foods, and their associated Vendors and Food Types:
+Mockup of Kanak Attack Vendor Page:
 
-Finally, the Places page shows all of the currently defined Places and their associated Vendors and Menu Items:
+<img src="public/images/vendor-mockup.png">
 
-Example of Places to eat on campus:
+Mockup of User Page:
 
-<img src="public/images/food-spots.png">
+<img src="public/images/user-mockup.png">
 
-Example of where to eat:
+Mockup of Login Page:
 
-<img src="public/images/map.png">
+<img src="public/images/login-mockup.png">
+
+Mockup of Signup/Register Page:
+
+<img src="public/images/register-mockup.png">
 
 ### Sign in and sign up
 
