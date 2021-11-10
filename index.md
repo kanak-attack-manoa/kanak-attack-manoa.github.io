@@ -3,10 +3,13 @@ title: Kanak Attack Manoa
 ---
 
 ## Table of contents   
-
+* [Team Members] (#team-members)
 * [Link to Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/1?fullscreen=true)
 * [Overview](#overview)
 * [User Guide](#user-guide)
+
+## Team Members
+Nicholas Carr, Jeanne Chan, Gavin Hirai, Desmond Lum, Tricia Marie Reyes
 
 ## Overview
 
@@ -53,16 +56,6 @@ Mockup of Login Page:
 Mockup of Signup/Register Page:
 
 <img src="public/images/register-mockup.png">
-
-### Sign in and sign up
-
-Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
-
-<img src="public/images/login.png">
-
-Alternatively, you can select "Sign up" to go to the following page and register as a new user:
-
-<img src="public/images/register.png">
 
 ### Home page
 
