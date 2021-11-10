@@ -38,7 +38,7 @@ Mockup of Landing Page:
 
 <img src="public/images/landing-mockup.png">
 
-Mockup of Kanak Attack Vendor Page:
+Mockup of Vendor Page:
 
 <img src="public/images/vendor-mockup.png">
 
