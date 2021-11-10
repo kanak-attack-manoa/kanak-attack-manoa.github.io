@@ -28,7 +28,7 @@ This is a user guide for Kanak Attack Manoa and the mockup pages we plan to crea
 
 When arriving at the landing page, the user has the option to login to an existing account or create a new one. We will also display general information about the app in case the user is contemplating downloading it.
 
-### Index pages (Profiles, Foods, Places )
+### Index pages (Profiles, Foods, Places)
 
 Kanak Attack provides three public pages that present the contents of the database organized in various ways.
 
