@@ -1,15 +1,28 @@
 ---
 title: Kanak Attack Manoa
 ---
+[Kanak Attack Manoa Organization](https://github.com/kanak-attack-manoa)
+
+[Kanak Attack Manoa](https://github.com/kanak-attack-manoa/kanak-attack-manoa)
+
+[M1 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/1)
 
 ## Table of contents   
 * [Team Members](#team-members)
-* [Link to Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/1?fullscreen=true)
 * [Overview](#overview)
 * [User Guide](#user-guide)
 
 ## Team Members
-Nicholas Carr, Jeanne Chan, Gavin Hirai, Desmond Lum, Tricia Marie Reyes
+* Nicholas Carr 
+  * [Portfolio](https://nicholasbcarr.github.io/)
+* Jeanne Chan
+  * [Portfolio](https://jeanne8879.github.io/)
+* Gavin Hirai
+  * [Portfolio](https://gavinh123.github.io/)
+* Desmond Lum
+  * [Portfolio](https://lumd2000.github.io/)
+* Tricia Marie Reyes
+  * [Portfolio](https://triciamarier.github.io/)
 
 ## Overview
 
