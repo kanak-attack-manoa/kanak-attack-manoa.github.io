@@ -3,7 +3,7 @@ title: Kanak Attack Manoa
 ---
 
 ## Table of contents   
-* [Team Members] (#team-members)
+* [Team Members](#team-members)
 * [Link to Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/1?fullscreen=true)
 * [Overview](#overview)
 * [User Guide](#user-guide)
