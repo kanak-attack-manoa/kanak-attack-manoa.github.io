@@ -68,6 +68,11 @@ Mockup of Signup/Register Page:
 
 <img src="public/images/register-mockup.png">
 
+
+Example of the admin page:
+
+<img src="public/images/admin-page.png">
+
 ### Home page
 
 After logging in, you are taken to the home page, which presents a form where you can complete and/or update your personal profile as a vendor or a consumer.
