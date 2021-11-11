@@ -1,26 +1,12 @@
 ---
 title: Kanak Attack Manoa
 ---
-* [Kanak Attack Manoa Organization](https://github.com/kanak-attack-manoa)
-* [Kanak Attack Manoa](https://github.com/kanak-attack-manoa/kanak-attack-manoa)
-* [M1 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/1)
 
 ## Table of contents   
-* [Team Members](#team-members)
+
+* [Link to Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/1?fullscreen=true)
 * [Overview](#overview)
 * [User Guide](#user-guide)
-
-## Team Members
-* Nicholas Carr 
-  * [Portfolio](https://nicholasbcarr.github.io/)
-* Jeanne Chan
-  * [Portfolio](https://jeanne8879.github.io/)
-* Gavin Hirai
-  * [Portfolio](https://gavinh123.github.io/)
-* Desmond Lum
-  * [Portfolio](https://lumd2000.github.io/)
-* Tricia Marie Reyes
-  * [Portfolio](https://triciamarier.github.io/)
 
 ## Overview
 
@@ -42,39 +28,37 @@ This is a user guide for Kanak Attack Manoa and the mockup pages we plan to crea
 
 When arriving at the landing page, the user has the option to login to an existing account or create a new one. We will also display general information about the app in case the user is contemplating downloading it.
 
-### Index pages (Profiles, Foods, Places)
+### Index pages (Profiles, Foods, Places )
 
 Kanak Attack provides three public pages that present the contents of the database organized in various ways.
 
 The Profiles page shows all the current defined profiles and their associated Foods and Places:
 
-Mockup of Landing Page:
+Example of a similar Vendor Profile:
 
-<img src="public/images/landing-mockup.png">
+<img src="public/images/vendor-profile.png">
 
-Mockup of Vendor Page:
+The Foods page shows all the currently defined Foods, and their associated Vendors and Food Types:
 
-<img src="public/images/vendor-mockup.png">
+Finally, the Places page shows all of the currently defined Places and their associated Vendors and Menu Items:
 
-Mockup of User Page:
+Example of Places to eat on campus:
 
-<<<<<<< HEAD
-Example of the admin page:
+<img src="public/images/food-spots.png">
 
-<img src="public/images/admin-page.png">
+Example of where to eat:
+
+<img src="public/images/map.png">
 
 ### Sign in and sign up
-=======
-<img src="public/images/user-mockup.png">
->>>>>>> 78fcd4b5fac405a92d2dd65a658d59201f41cb14
 
-Mockup of Login Page:
+Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
 
-<img src="public/images/login-mockup.png">
+<img src="public/images/login.png">
 
-Mockup of Signup/Register Page:
+Alternatively, you can select "Sign up" to go to the following page and register as a new user:
 
-<img src="public/images/register-mockup.png">
+<img src="public/images/register.png">
 
 ### Home page
 
