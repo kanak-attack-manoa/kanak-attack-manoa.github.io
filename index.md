@@ -53,9 +53,9 @@ Mockup of Landing Page:
 
 <img src="public/images/landing-mockup.png">
 
-Mockup of Vendor Page:
+List Vendor Page:
 
-<img src="public/images/vendor-mockup.png">
+<img src="public/images/list-vendor.png">
 
 Mockup of User Page:
 
