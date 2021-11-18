@@ -72,7 +72,7 @@ Mockup of Signup/Register Page:
 
 Example of the admin page:
 
-<img src="public/images/admin-page.png">
+<img src="public/images/admin.png">
 
 ### Home page
 
