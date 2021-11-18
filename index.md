@@ -81,6 +81,8 @@ After logging in, you are taken to the home page, which presents a form where yo
 
 Once a vendor is logged in, the vendor can define new menu items with the Add Menu Item page.
 
+<img src="public/images/admin-page.png">
+
 ### Filter page
 
 The Filter page provides the ability to query the database and display the results in the page. In this case, the query displays all of the Menu items that match one or more of the specified Food Type(s) (i.e. ingredients, styles, etc..).
