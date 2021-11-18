@@ -81,7 +81,7 @@ After logging in, you are taken to the home page, which presents a form where yo
 
 Once a vendor is logged in, the vendor can define new menu items with the Add Menu Item page.
 
-<img src="public/images/admin-page.png">
+<img src="public/images/add-menu-item.png">
 
 ### Filter page
 
