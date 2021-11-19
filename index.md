@@ -92,11 +92,11 @@ The Filter page provides the ability to query the database and display the resul
 We are undecided on how or if we want to implement community feedback on a vendor basis, application basis or both.
 
 ## Milestones
-* [M1 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/1)
-* [M2 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/2)
+* In Milestone 1, we created the landing page, deployed to Digital Ocean, and created four mockup pages. We also have two pages that read/write to the database. Our latest updates have also been deployed to Digital Ocean. (Finished) [M1 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/1)
+* In Milestone 2, we will improve the quality of our application. We plan on implementing a User page, and having our pages read and write from the database. (In progress) [M2 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/2)
 
 ## Deployment
-[Kanak Attack Web Page]( http://164.90.128.222/#/)
+A link to our deployed application on Digital Ocean [http://164.90.128.222/#/](http://164.90.128.222/#/)
 
 ## Team Members
 * Nicholas Carr
