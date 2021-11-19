@@ -4,8 +4,7 @@ title: Kanak Attack Manoa
 * [Kanak Attack Manoa Organization](https://github.com/kanak-attack-manoa)
 * [Kanak Attack Manoa](https://github.com/kanak-attack-manoa/kanak-attack-manoa)
 
-## Table of contents   
-* [Team Members](#team-members)
+## Table of contents
 * [Overview](#overview)
 * [User Guide](#user-guide)
 * [Milestones](#milestones)
