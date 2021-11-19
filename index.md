@@ -57,7 +57,6 @@ Mockup of Signup/Register Page:
 
 <img src="public/images/register.png">
 
-
 Mockup of Admin Home Page:
 
 <img src="public/images/admin-home.png">
@@ -71,6 +70,10 @@ After logging in, you are taken to the home page, which presents a form where yo
 Once a vendor is logged in, the vendor can define new menu items with the Add Menu Item page.
 
 <img src="public/images/add-menu-item.png">
+
+The vendor will also have the ability to edit the Menu Item
+
+<img src="public/images/edit-menu-item.png">
 
 ### Filter page
 
