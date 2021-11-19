@@ -75,6 +75,14 @@ The vendor will also have the ability to edit the Menu Item
 
 <img src="public/images/edit-menu-item.png">
 
+### List Menu Item
+
+The user will also be able to see a list of available menu items and who the vendor is.
+
+Mockup of List Menu Item page:
+
+<img src="public/images/list-menu-item.png">
+
 ### Filter page
 
 The Filter page provides the ability to query the database and display the results in the page. In this case, the query displays all of the Menu items that match one or more of the specified Food Type(s) (i.e. ingredients, styles, etc..).
