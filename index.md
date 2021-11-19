@@ -49,9 +49,9 @@ Kanak Attack provides three public pages that present the contents of the databa
 
 The Profiles page shows all the current defined profiles and their associated Foods and Places:
 
-Mockup of Landing Page:
+Landing Page:
 
-<img src="public/images/landing-mockup.png">
+<img src="public/images/landing.png">
 
 List Vendor Page:
 
@@ -70,9 +70,9 @@ Mockup of Signup/Register Page:
 <img src="public/images/register-mockup.png">
 
 
-Example of the admin page:
+Mockup of Admin Home Page:
 
-<img src="public/images/admin.png">
+<img src="public/images/admin-home.png">
 
 ### Home page
 
