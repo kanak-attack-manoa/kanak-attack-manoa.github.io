@@ -3,25 +3,14 @@ title: Kanak Attack Manoa
 ---
 * [Kanak Attack Manoa Organization](https://github.com/kanak-attack-manoa)
 * [Kanak Attack Manoa](https://github.com/kanak-attack-manoa/kanak-attack-manoa)
-* [M2 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/2)
-* [M1 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/1)
 
 ## Table of contents   
 * [Team Members](#team-members)
 * [Overview](#overview)
 * [User Guide](#user-guide)
-
-## Team Members
-* Nicholas Carr 
-  * [Portfolio](https://nicholasbcarr.github.io/)
-* Jeanne Chan
-  * [Portfolio](https://jeanne8879.github.io/)
-* Gavin Hirai
-  * [Portfolio](https://gavinh123.github.io/)
-* Desmond Lum
-  * [Portfolio](https://lumd2000.github.io/)
-* Tricia Marie Reyes
-  * [Portfolio](https://triciamarier.github.io/)
+* [Milestones](#milestones)
+* [Deployment](#deployment)
+* [Team Members](#team-members)
 
 ## Overview
 
@@ -63,11 +52,11 @@ Mockup of User Page:
 
 Mockup of Login Page:
 
-<img src="public/images/login-mockup.png">
+<img src="public/images/login.png">
 
 Mockup of Signup/Register Page:
 
-<img src="public/images/register-mockup.png">
+<img src="public/images/register.png">
 
 
 Mockup of Admin Home Page:
@@ -91,4 +80,25 @@ The Filter page provides the ability to query the database and display the resul
 ### Student/Vendor Feedback
 
 We are undecided on how or if we want to implement community feedback on a vendor basis, application basis or both.
+
+## Milestones
+* [M1 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/1)
+* [M2 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/2)
+
+## Deployment
+[Kanak Attack Web Page]( http://164.90.128.222/#/)
+
+## Team Members
+* Nicholas Carr
+    * [Portfolio](https://nicholasbcarr.github.io/)
+* Jeanne Chan
+    * [Portfolio](https://jeanne8879.github.io/)
+* Gavin Hirai
+    * [Portfolio](https://gavinh123.github.io/)
+* Desmond Lum
+    * [Portfolio](https://lumd2000.github.io/)
+* Tricia Marie Reyes
+    * [Portfolio](https://triciamarier.github.io/)
+
+
 
