@@ -2,8 +2,7 @@
 title: Kanak Attack Manoa
 ---
 * [Kanak Attack Manoa Organization](https://github.com/kanak-attack-manoa)
-* [Kanak Attack Manoa](https://github.com/kanak-attack-manoa/kanak-attack-manoa)
-* [M3 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/3)
+* [M3 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/3))
 * [M2 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/2)
 * [M1 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/1)
 
@@ -86,6 +85,10 @@ The user will also be able to see a list of available menu items and who the ven
 Mockup of List Menu Item page:
 
 <img src="public/images/list-menu-item.png">
+
+### List Vendor 
+
+This page allows the user to view all available vendors and click on them to view their specific menu. 
 
 ### Filter page
 
