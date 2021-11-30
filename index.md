@@ -3,7 +3,7 @@ title: Kanak Attack Manoa
 ---
 * [Kanak Attack Manoa Organization](https://github.com/kanak-attack-manoa)
 * [Kanak Attack Manoa](https://github.com/kanak-attack-manoa/kanak-attack-manoa)
-* [M3 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/3))
+* [M3 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/3)
 * [M2 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/2)
 * [M1 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/1)
 
