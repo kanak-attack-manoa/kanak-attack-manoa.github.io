@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+![ci-badge](https://github.com/kanak-attack-manoa/kanak-attack-manoa/workflows/ci-kanak-attack-manoa/badge.svg)
+
 You can use the [editor on GitHub](https://github.com/kanak-attack-manoa/kanak-attack-manoa.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
