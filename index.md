@@ -28,7 +28,7 @@ The system should eventually provide the following:
 
 ## User Guide
 
-This is a user guide for Kanak Attack Manoa and the mockup pages we plan to create.
+This is a user guide for Kanak Attack Manoa.
 
 ### Landing Page
 
@@ -52,15 +52,15 @@ Mockup of User Page:
 
 <img src="public/images/user-mockup.png">
 
-Mockup of Login Page:
+Login Page:
 
 <img src="public/images/login.png">
 
-Mockup of Signup/Register Page:
+Signup/Register Page:
 
 <img src="public/images/register.png">
 
-Mockup of Admin Home Page:
+Admin Home Page:
 
 <img src="public/images/admin-home.png">
 
@@ -82,7 +82,7 @@ The vendor will also have the ability to edit the Menu Item
 
 The user will also be able to see a list of available menu items and who the vendor is.
 
-Mockup of List Menu Item page:
+List Menu Item page:
 
 <img src="public/images/list-menu-item.png">
 
