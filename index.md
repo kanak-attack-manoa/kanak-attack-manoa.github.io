@@ -100,8 +100,8 @@ We are undecided on how or if we want to implement community feedback on a vendo
 
 ## Milestones
 * In Milestone 1, we created the landing page, deployed to Digital Ocean, and created four mockup pages. We also have two pages that read/write to the database. Our latest updates have also been deployed to Digital Ocean. (Finished) [M1 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/1)
-* In Milestone 2, we will improve the quality of our application. We plan on implementing a User page, and having our pages read and write from the database. (In progress) [M2 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/2)
-* In Milestone 3, we will improve our app even more with user/vendor/admin specific options. Testing and searching keywords of the database should be fully functional by Milestone 3 (In Progress) [M3 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/3)
+* In Milestone 2, we improved the quality of our application. We have our pages read and write from the database. Our application allows the user to select a vendor in the vendor page and see their menu. Using TestCafe, we also implemented the testing of the availability of all pages, whether it be displaying the page or filling out a form with legal inputs. (Finished) [M2 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/2)
+* In Milestone 3, we will improve our app even more with user/vendor/admin specific options. Testing and searching keywords of the database should be fully functional by Milestone 3. (In Progress) [M3 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/3)
 
 ## Developer Guide
 
