@@ -117,6 +117,10 @@ Then, cd into the app/ directory of your local copy of the repo, and install the
 $ meteor npm install
 ```
 
+## Development History
+
+With milestone 1, our application was able to host sample menu items and vendors and display their information on a card graphic to the user on the webpage. Admins were also able to edit the data of the menu items and vendor data. For milestone 2, our application allowed for vendors to create their own type of account for specific data editing, and allows normal users to view vendor-specific menu items on a separate page. Admin functionalities are also updated in milestone 2. 
+
 ## Running the system
 
 Once the libraries are installed, you can run the application by invoking the "start" script in the [package.json file](https://github.com/kanak-attack-manoa/kanak-attack-manoa/blob/master/app/package.json):
