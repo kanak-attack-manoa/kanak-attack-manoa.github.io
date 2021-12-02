@@ -209,5 +209,4 @@ A link to our deployed application on Digital Ocean [https://kanak-attack-manoa.
 * Tricia Marie Reyes
     * [Portfolio](https://triciamarier.github.io/)
 
-
-
+![ci-badge](https://github.com/kanak-attack-manoa/kanak-attack-manoa/workflows/ci-kanak-attack-manoa/badge.svg)
