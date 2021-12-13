@@ -103,6 +103,21 @@ We are undecided on how or if we want to implement community feedback on a vendo
 * In Milestone 2, we improved the quality of our application. We have our pages read and write from the database. Our application allows the user to select a vendor in the vendor page and see their menu. Using TestCafe, we also implemented the testing of the availability of all pages, whether it be displaying the page or filling out a form with legal inputs. (Finished) [M2 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/2)
 * In Milestone 3, we will improve our app even more with user/vendor/admin specific options. Testing and searching keywords of the database should be fully functional by Milestone 3. (In Progress) [M3 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/3)
 
+## Community Feedback
+
+We asked five different members in the community to use our website and perform some of its intended actions, such as:
+* Viewing available food on campus
+* Looking at the available vendors on campus
+* Leaving a review on the vendor page
+
+From some of the community members we reached out to for testing the web application, we received some ideas on how to improve the vendor review system. In the future, we could work on adding an average star rating that takes into account every user review's personal rating on the vendor and display it on their page, and give users the ability to edit and remove their reviews after their make one. 
+Another possible improvement that was given to us was the idea of having the ability to search and filter through menu items using different categories, such as vegan options, location, and availability. 
+A criticism that we received during testing is that the user was not able to leave reviews on individual menu items. This could definitely be implemented in an upcoming version of the application. It was also hard for one of the users to understand whether a link was clickable in the application in some areas, like the vendor page. This could be fixed via wrapping the link with a button or icon to indicate it is clickable text.
+Some positive notes of the application include 
+* Great design and layout of menu items
+* review system is simple and easy to use
+* inclusion of ingredients on the same page for all menu items is a nice touch
+
 ## Developer Guide
 
 ### Installation
