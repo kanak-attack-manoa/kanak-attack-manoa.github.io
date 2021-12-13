@@ -111,9 +111,12 @@ We asked five different members in the community to use our website and perform 
 * Leaving a review on the vendor page
 
 From some of the community members we reached out to for testing the web application, we received some ideas on how to improve the vendor review system. In the future, we could work on adding an average star rating that takes into account every user review's personal rating on the vendor and display it on their page, and give users the ability to edit and remove their reviews after their make one. 
+
 Another possible improvement that was given to us was the idea of having the ability to search and filter through menu items using different categories, such as vegan options, location, and availability. 
+
 A criticism that we received during testing is that the user was not able to leave reviews on individual menu items. This could definitely be implemented in an upcoming version of the application. It was also hard for one of the users to understand whether a link was clickable in the application in some areas, like the vendor page. This could be fixed via wrapping the link with a button or icon to indicate it is clickable text.
-Some positive notes of the application include 
+
+Some positive notes of the application include:
 * Great design and layout of menu items
 * review system is simple and easy to use
 * inclusion of ingredients on the same page for all menu items is a nice touch
