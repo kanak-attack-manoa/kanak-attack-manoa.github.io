@@ -10,20 +10,21 @@ title: Kanak Attack Manoa
 * [Overview](#overview)
 * [User Guide](#user-guide)
 * [Milestones](#milestones)
+* [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Deployment](#deployment)
 * [Team Members](#team-members)
 
 ## Overview
 
-Kanak Attack is an app designed for the UH Manoa campus. It gives vendors the ability to maintain an active menu, update special items, and list the availability of items. The items can be sorted by ingredients, cuisine, or availability. The user will have the ability to select what type of cuisine they want. On top of that, they will be able to filter food items by ingredients, type, style. The overall purpose of this app is to display available items around campus so the user can make a decision on what to eat based on their personal taste and availability.
+Kanak Attack is an app designed for the UH Manoa campus. It gives vendors the ability to maintain an active menu, update items, and list the availability of items. The user have the ability to view menu items, vendors, and the menu for each vendor. On top of that, they are also able to read reviews from other users and leave their own. The overall purpose of this app is to display available items around campus so the user can make a decision on what to eat based on their personal taste and availability.
 
-The system should eventually provide the following:
+The system provides the following:
 
-* We will have three user roles (vendor, consumer, and admin) in which the vendors can update the app to include available menu options, changes, or specials.
-* Top-level index pages for Food and Places.
-* Initialization code to define Foods, and Places and relations between them.
-* The ability to filter menu items through vendor.
+* There are three user roles (vendor, consumer, and admin) in which the vendors can update the app to include available menu options, changes, or specials.
+* Top-level index pages for Food and Vendors.
+* Initialization code to define Vendors and Foods and relations between them.
+* The ability to leave reviews for vendors.
 * Accessing the menu page, vendor page, and review pages requires user-level authorization, while editing menu data and vendor profiles requires either vendor-level or admin-level authorization. 
 
 ## User Guide
@@ -32,7 +33,7 @@ This is a user guide for Kanak Attack Manoa.
 
 ### Landing Page
 
-When arriving at the landing page, the user has the option to login to an existing account or create a new one. We will also display general information about the app in case the user is contemplating downloading it.
+When arriving at the landing page, the user has the option to login to an existing account or create a new one. It also displays general information about the app in case the user is contemplating creating an account.
 
 <img src="public/images/landing.png">
 
@@ -89,7 +90,7 @@ This page is for users to give feedback on specific vendors and include their th
 ## Milestones
 * In Milestone 1, we created the landing page, deployed to Digital Ocean, and created four mockup pages. We also have two pages that read/write to the database. Our latest updates have also been deployed to Digital Ocean. (Finished) [M1 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/1)
 * In Milestone 2, we improved the quality of our application. We have our pages read and write from the database. Our application allows the user to select a vendor in the vendor page and see their menu. Using TestCafe, we also implemented the testing of the availability of all pages, whether it be displaying the page or filling out a form with legal inputs. (Finished) [M2 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/2)
-* In Milestone 3, we will improve our app even more with user/vendor/admin specific options. Testing and searching keywords of the database should be fully functional by Milestone 3. (In Progress) [M3 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/3)
+* In Milestone 3, we improved our app even more with user/vendor/admin specific options. The vendor home page was updated, and now users also have the ability to leave and read reviews for vendors. Our tests using TestCafe have been fully updated to check the availability of alll pages. (Completed) [M3 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/3)
 
 ## Community Feedback
 
