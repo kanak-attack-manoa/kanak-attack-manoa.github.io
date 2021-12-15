@@ -21,10 +21,10 @@ Kanak Attack is an app designed for the UH Manoa campus. It gives vendors the ab
 The system should eventually provide the following:
 
 * We will have three user roles (vendor, consumer, and admin) in which the vendors can update the app to include available menu options, changes, or specials.
-* Top-level index pages Profiles, Foods, and Places.
-* Initialization code to define default Profiles, Foods, and Places and relations between them.
-* A simple Filter page where the user will be able to filter the menu items based on their specified food styles.
-* We will have certain pages that are public, Profiles, Foods, and Places, while other pages require login, Favorites and  Filter.
+* Top-level index pages for Food and Places.
+* Initialization code to define Foods, and Places and relations between them.
+* The ability to filter menu items through vendor.
+* Accessing the menu page, vendor page, and review pages requires user-level authorization, while editing menu data and vendor profiles requires either vendor-level or admin-level authorization. 
 
 ## User Guide
 
@@ -36,21 +36,17 @@ When arriving at the landing page, the user has the option to login to an existi
 
 ### Index pages (Profiles, Foods, Places)
 
-Kanak Attack provides three public pages that present the contents of the database organized in various ways.
+Kanak Attack provides two public pages that present the contents of the database organized in various ways.
 
-The Profiles page shows all the current defined profiles and their associated Foods and Places:
+The Menu page shows all the food items and their associated ingredients and Vendors:
 
 Landing Page:
 
 <img src="public/images/landing.png">
 
-List Vendor Page:
+List Vendor Page: 
 
-<img src="public/images/list-vendor.png">
-
-Mockup of User Page:
-
-<img src="public/images/user-mockup.png">
+<img src="public/images/list-vendor1.png">
 
 Login Page:
 
@@ -86,17 +82,18 @@ List Menu Item page:
 
 <img src="public/images/list-menu-item.png">
 
+Review Page: 
+
+<img src="public/images/review.png">
+
 ### List Vendor 
 
-This page allows the user to view all available vendors and click on them to view their specific menu. 
+This page allows the user to view all available vendors and click on them to view their specific menu by clicking the "Menu" button below the description. Here in this page you can also make reviews on vendors clicking on the "Tell Them What You Think!" button. You can also view other's reviews on a vendor by clicking the button below that one, labelled "What others are saying!!". 
 
-### Filter page
+### Review Page
 
-The Filter page provides the ability to query the database and display the results in the page. In this case, the query displays all of the Menu items that match one or more of the specified Food Type(s) (i.e. ingredients, styles, etc..).
+This page is for users to give feedback on specific vendors and include their thoughts on the food, while leaving behind a numerical rating of their enjoyment of the food.
 
-### Student/Vendor Feedback
-
-We are undecided on how or if we want to implement community feedback on a vendor basis, application basis or both.
 
 ## Milestones
 * In Milestone 1, we created the landing page, deployed to Digital Ocean, and created four mockup pages. We also have two pages that read/write to the database. Our latest updates have also been deployed to Digital Ocean. (Finished) [M1 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/1)
@@ -110,7 +107,7 @@ We asked five different members in the community to use our website and perform 
 * Looking at the available vendors on campus
 * Leaving a review on the vendor page
 
-From some of the community members we reached out to for testing the web application, we received some ideas on how to improve the vendor review system. In the future, we could work on adding an average star rating that takes into account every user review's personal rating on the vendor and display it on their page, and give users the ability to edit and remove their reviews after their make one. 
+From some of the community members we reached out to for testing the web application, we received some ideas on how to improve the vendor review system. In the future, we could work on adding an average star rating that takes into account every user review's personal rating on the vendor and display it on their page, and give users the ability to edit and remove their reviews after they make one. 
 
 Another possible improvement that was given to us was the idea of having the ability to search and filter through menu items using different categories, such as vegan options, location, and availability. 
 
