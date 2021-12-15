@@ -34,19 +34,11 @@ This is a user guide for Kanak Attack Manoa.
 
 When arriving at the landing page, the user has the option to login to an existing account or create a new one. We will also display general information about the app in case the user is contemplating downloading it.
 
-### Index pages (Profiles, Foods, Places)
-
-Kanak Attack provides two public pages that present the contents of the database organized in various ways.
-
-The Menu page shows all the food items and their associated ingredients and Vendors:
-
-Landing Page:
-
 <img src="public/images/landing.png">
 
-List Vendor Page: 
+### Index pages
 
-<img src="public/images/list-vendor1.png">
+Kanak Attack provides two public pages that present the contents of the database organized in various ways. The following are pages that greet the user upon startup and login.
 
 Login Page:
 
@@ -56,13 +48,15 @@ Signup/Register Page:
 
 <img src="public/images/register.png">
 
-Admin Home Page:
+### Admin Home Page:
+
+The Admin page is the first page that greets any admin-level account user upon login, and allows them to modify existing accounts by changing their account type (user-level or vendor-level).
 
 <img src="public/images/admin-home.png">
 
 ### Home page
 
-After logging in, you are taken to the home page, which presents a form where you can complete and/or update your personal profile as a vendor or a consumer.
+After logging in, you are taken to the home page, which presents a form where you can complete and/or update your personal profile as a vendor if you have vendor-level authorization.
 
 ### Add Menu Item
 
@@ -70,30 +64,27 @@ Once a vendor is logged in, the vendor can define new menu items with the Add Me
 
 <img src="public/images/add-menu-item.png">
 
-The vendor will also have the ability to edit the Menu Item
+The vendor will also have the ability to edit their menu items. 
 
 <img src="public/images/edit-menu-item.png">
 
 ### List Menu Item
 
-The user will also be able to see a list of available menu items and who the vendor is.
-
-List Menu Item page:
+The page allows any user to view the available food items on campus and their associated vendor. Each menu item is displayed in a card, which has the name of the menu item, and the ingredients used.
 
 <img src="public/images/list-menu-item.png">
-
-Review Page: 
-
-<img src="public/images/review.png">
 
 ### List Vendor 
 
 This page allows the user to view all available vendors and click on them to view their specific menu by clicking the "Menu" button below the description. Here in this page you can also make reviews on vendors clicking on the "Tell Them What You Think!" button. You can also view other's reviews on a vendor by clicking the button below that one, labelled "What others are saying!!". 
 
+<img src="public/images/list-vendor1.png">
+
 ### Review Page
 
 This page is for users to give feedback on specific vendors and include their thoughts on the food, while leaving behind a numerical rating of their enjoyment of the food.
 
+<img src="public/images/review.png">
 
 ## Milestones
 * In Milestone 1, we created the landing page, deployed to Digital Ocean, and created four mockup pages. We also have two pages that read/write to the database. Our latest updates have also been deployed to Digital Ocean. (Finished) [M1 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/1)
