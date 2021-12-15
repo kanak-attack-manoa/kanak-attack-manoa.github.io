@@ -118,8 +118,8 @@ A criticism that we received during testing is that the user was not able to lea
 
 Some positive notes of the application include:
 * Great design and layout of menu items
-* review system is simple and easy to use
-* inclusion of ingredients on the same page for all menu items is a nice touch
+* Review system is simple and easy to use
+* Inclusion of ingredients on the same page for all menu items is a nice touch
 
 ## Developer Guide
 
