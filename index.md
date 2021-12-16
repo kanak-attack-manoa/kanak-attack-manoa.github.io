@@ -49,13 +49,19 @@ Signup/Register Page:
 
 <img src="public/images/register.png">
 
-### Admin Home Page:
+### Admin Home Page
 
 The Admin page is the first page that greets any admin-level account user upon login, and allows them to modify existing accounts by changing their account type (user-level or vendor-level).
 
 <img src="public/images/admin-home.png">
 
-### Home page
+## Edit Vendors
+
+The admin user also has the ability to edit the information of all the vendors.
+
+<img src="public/images/admin-edit-vendor.png">
+
+### Vendor Home page
 
 After logging in, you are taken to the home page, which presents a form where you can complete and/or update your personal profile as a vendor if you have vendor-level authorization.
 
@@ -67,8 +73,8 @@ Once a vendor is logged in, the vendor can define new menu items with the Add Me
 
 <img src="public/images/add-menu-item.png">
 
-The vendor will also have the ability to edit their menu items. 
-
+The vendor also has the ability to view their current menu and edit it.
+<img src="public/images/vendor-edit.png">
 <img src="public/images/edit-menu-item.png">
 
 ### List Menu Item
@@ -100,7 +106,7 @@ Users are also able to read reviews of vendors, written by other users.
 ## Milestones
 * In Milestone 1, we created the landing page, deployed to Digital Ocean, and created four mockup pages. We also have two pages that read/write to the database. Our latest updates have also been deployed to Digital Ocean. (Finished) [M1 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/1)
 * In Milestone 2, we improved the quality of our application. We have our pages read and write from the database. Our application allows the user to select a vendor in the vendor page and see their menu. Using TestCafe, we also implemented the testing of the availability of all pages, whether it be displaying the page or filling out a form with legal inputs. (Finished) [M2 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/2)
-* In Milestone 3, we improved our app even more with user/vendor/admin specific options. The vendor home page was updated, and now users also have the ability to leave and read reviews for vendors. Our tests using TestCafe have been fully updated to check the availability of alll pages. (Completed) [M3 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/3)
+* In Milestone 3, we improved our app even more with user/vendor/admin specific options. The vendor home page was updated, and now users also have the ability to leave and read reviews for vendors. Our tests using TestCafe have been fully updated to check the availability of all pages. (Completed) [M3 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/3)
 
 ## Community Feedback
 
@@ -136,7 +142,7 @@ $ meteor npm install
 
 ## Development History
 
-With milestone 1, our application was able to host sample menu items and vendors and display their information on a card graphic to the user on the webpage. Admins were also able to edit the data of the menu items and vendor data. For milestone 2, our application allowed for vendors to create their own type of account for specific data editing, and allows normal users to view vendor-specific menu items on a separate page. Admin functionalities are also updated in milestone 2. 
+With Milestone 1, our application was able to host sample menu items and vendors and display their information on a card graphic to the user on the webpage. Admins were also able to edit the data of the menu items and vendor data. For Milestone 2, our application allowed for vendors to create their own type of account for specific data editing, and allows normal users to view vendor-specific menu items on a separate page. Admin functionalities are also updated in Milestone 2. Lastly, for Milestone 3, the vendor now has a home page to edit their information. Users can also leave reviews for each vendor and read reviews from other users.
 
 ## Running the system
 
