@@ -55,7 +55,7 @@ The Admin page is the first page that greets any admin-level account user upon l
 
 <img src="public/images/admin-home.png">
 
-## Edit Vendors
+### Edit Vendors
 
 The admin user also has the ability to edit the information of all the vendors.
 
