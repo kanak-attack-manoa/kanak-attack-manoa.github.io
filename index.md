@@ -59,6 +59,8 @@ The Admin page is the first page that greets any admin-level account user upon l
 
 After logging in, you are taken to the home page, which presents a form where you can complete and/or update your personal profile as a vendor if you have vendor-level authorization.
 
+<img src="public/images/vendor-home.png">
+
 ### Add Menu Item
 
 Once a vendor is logged in, the vendor can define new menu items with the Add Menu Item page.
@@ -77,15 +79,23 @@ The page allows any user to view the available food items on campus and their as
 
 ### List Vendor 
 
-This page allows the user to view all available vendors and click on them to view their specific menu by clicking the "Menu" button below the description. Here in this page you can also make reviews on vendors clicking on the "Tell Them What You Think!" button. You can also view other's reviews on a vendor by clicking the button below that one, labelled "What others are saying!!". 
+This page allows the user to view all available vendors and click on them to view their specific menu by clicking the "Menu" button below the description. Here in this page you can also make reviews on vendors clicking on the "Tell Them What You Think!" button. You can also view other's reviews on a vendor by clicking the button below that one, labeled "What others are saying!!". 
 
 <img src="public/images/list-vendor1.png">
+
+When users click on the Menu of a vendor they are able to see a filtered list consisting of a specific vendor's menu.
+
+<img src="public/images/vendor-menu.png">
 
 ### Review Page
 
 This page is for users to give feedback on specific vendors and include their thoughts on the food, while leaving behind a numerical rating of their enjoyment of the food.
 
 <img src="public/images/review.png">
+
+Users are also able to read reviews of vendors, written by other users.
+
+<img src="public/images/read-review.png">
 
 ## Milestones
 * In Milestone 1, we created the landing page, deployed to Digital Ocean, and created four mockup pages. We also have two pages that read/write to the database. Our latest updates have also been deployed to Digital Ocean. (Finished) [M1 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/1)
